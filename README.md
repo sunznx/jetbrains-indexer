@@ -45,7 +45,7 @@ Shared indexes are often hosted on a CDN and used by IDEs to speed up loading (i
 
 By default, this project indexes version 2021.3 of your IDE. Specify the IDE name by using the appropriate tag (e.g `bencdr/indexer:[ide-name]-2021.3`). You can verify with [DockerHub](https://hub.docker.com/r/bencdr/indexer/tags).
 
-If an IDE/version is not on DockerHub, we recommend you manually pulling and building the image yourself using [these build arguments](https://github.com/bpmct/jetbrains-indexer/blob/master/image/Dockerfile#L3-L9).
+If an IDE/version is not on DockerHub, we recommend you manually pulling and building the image yourself using [these build arguments](https://github.com/sunznx/jetbrains-indexer/blob/master/image/Dockerfile#L3-L9).
 
 ## Docs and examples
 
